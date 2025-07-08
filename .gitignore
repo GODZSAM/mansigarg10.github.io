@@ -1,0 +1,32 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Node/npm (if you add tools like sass, vite, etc.)
+node_modules/
+dist/
+build/
+
+# System backups or temp
+*.bak
+*.tmp
+
+# Image or preview working files
+*.xcf
+*.psd
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
