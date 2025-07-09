@@ -2,7 +2,7 @@
 
 Welcome to the source code of my personal portfolio website, a responsive, minimalist showcase of my skills, experience, and projects in software testing and automation.
 
-![Screenshot of Portfolio](assets/images/portfolio-Screenshot.png)
+![Screenshot of Portfolio](assets/images/portfolio-screenshot.png)
 
 ---
 
